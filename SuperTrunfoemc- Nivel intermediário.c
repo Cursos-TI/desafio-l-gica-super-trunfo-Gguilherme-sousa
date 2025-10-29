@@ -169,7 +169,7 @@ int main() {
                 break;
 
             default:
-                printf("⚠️ Opção inválida! Digite um número de 0 a 7.\n");
+                printf(" Opção inválida! Digite um número de 0 a 7.\n");
                 break;
         }
 
